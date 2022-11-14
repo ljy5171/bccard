@@ -130,8 +130,6 @@ header>.container>.search>li>a{
 }
 header>.container>nav{
     position: relative;
-    left: 350px;
-    width: 850px;
     height: 90px;
     margin-top: 40px;
     z-index: 300;
